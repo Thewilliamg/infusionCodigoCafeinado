@@ -1,8 +1,8 @@
 {
-    camper:[
+    "camper":[
         {
         "id":10958302,
-        "full_name": "Pepito Perez de la cruz"
+        "full_name": "Pepito Perez de la cruz",
         "products":[{
             "description":"incluye version deskop y mobile",
             "quantity":2,

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dataFireBill":"json-server js/db/bill.json -p 5600"
+    "dataFireBill": "json-server js/db/bill.json -p 5600"
   },
   "keywords": [],
   "author": "",
